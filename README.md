@@ -7,6 +7,9 @@ Welcome to my portfolio repository! This website showcases my projects, skills, 
 - **JavaScript (ES6+)** - Dynamic DOM manipulation and interactivity
 - ## 📂 Featured Projects
 - **Interactive Programming Quiz App**: A responsive web application featuring a randomized 10-question pool, score tracking, and detailed answer review.
+(https://talelselmi-hub.github.io/programming-quiz/)**  
+   👉 **[Try Live Demo](https://talelselmi-hub.github.io/programming-quiz/)**
+  
 - ## 📫 Contact & Connect
 - **GitHub**: [github.com/talelselmi-hub](https://github.com/talelselmi-hub)
 - **Email**: talelselmi81@gmail.com
