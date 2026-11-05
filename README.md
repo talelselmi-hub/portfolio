@@ -7,9 +7,11 @@ Welcome to my portfolio repository! This website showcases my projects, skills, 
 - **JavaScript (ES6+)** - Dynamic DOM manipulation and interactivity
 - ## 📂 Featured Projects
 - **Interactive Programming Quiz App**: A responsive web application featuring a randomized 10-question pool, score tracking, and detailed answer review.
+  
 (https://talelselmi-hub.github.io/programming-quiz/)**  
   
   - **Weather Dashboard website**: a responsive, modern web application that allows users to search for real-time weather conditions in any city while displaying its location on an interactive map.
+    
 [https://talelselmi-hub.github.io/weather-dashboard/]
 
   
