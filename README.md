@@ -11,7 +11,7 @@ Welcome to my portfolio repository! This website showcases my projects, skills, 
   
   - **Weather Dashboard website**: a responsive, modern web application that allows users to search for real-time weather conditions in any city while displaying its location on an interactive map.
 [https://talelselmi-hub.github.io/weather-dashboard/]
-(https://talelselmi-hub.github.io/weather-dashboard/)
+
   
 - ## 📫 Contact & Connect
 - **GitHub**: [github.com/talelselmi-hub](https://github.com/talelselmi-hub)
